@@ -1,0 +1,91 @@
+#body{
+    padding:10px;
+    height:auto;
+    color:#ffffff;
+    background-color: #1f31ff;
+}
+
+#container{
+    position:relative;
+    height:auto;
+    width:80%;
+    margin-left:15%;
+    background-image: url(tlo1.jpg);
+	background-repeat:repeat-y;
+	background-position:top;
+}
+#box12{
+    margin-top:0%;
+    margin-left:10%;
+    width:100%;  
+}
+
+#gora {
+	font-size:26px;
+}
+
+#box3456{
+    margin-left:7%;
+    box-sizing:border-box;
+    margin-top:2%;
+    position:relative;
+    min-height:550px;
+    height:auto;
+    width:auto;
+}
+
+#box456{
+    position:relative;
+    float:left;
+    width:100%;
+    min-height:450px;
+    box-sizing:border-box;
+    
+}
+
+.box12{
+    padding-bottom:25px;
+    padding-top:5px;
+    background-color: darkgray;
+    min-height:50px;
+    height:auto;
+}
+
+#box1{
+    width:80%;
+    margin-right:5%;
+    margin-top:1%;
+    color:#303030;
+	margin-top:10px;
+	margin-bottom:25px;
+	padding:10px;
+	height:170px;
+	background-color:#dfbd01;
+	opacity:0.85;
+    
+}
+
+.box{
+    background-color: darkgray;
+    box-sizing:border-box;
+    padding:2%;
+}
+
+#box4{
+   float:left;
+   width:500px;
+   height:450px;
+   margin:3%;
+   background-position:top;
+   opacity:0.85;
+}
+#box5{
+    float:left;
+    width:35%;
+    min-height:450px;
+    margin:3%;
+    background-color:#41a8ea;
+	opacity:0.85;
+    color:#ffffff;
+    font-size:20px;
+}
